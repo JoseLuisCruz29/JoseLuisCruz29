@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/CzQvSP8/working-from.gif"  />
+<img align="right" height="120" src="https://i.ibb.co/CzQvSP8/working-from.gif"  />
 
 ###
 
@@ -39,8 +39,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoseLuisCruz29/JoseLuisCruz29/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"  />
+</div>
 
 ###
